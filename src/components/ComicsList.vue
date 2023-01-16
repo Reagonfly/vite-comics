@@ -78,6 +78,7 @@
                 height: 100%;
                 align-items: bottom;
             }
+            
             .title-cont{
                 margin-top: 10px;
                 color: $color-white;
